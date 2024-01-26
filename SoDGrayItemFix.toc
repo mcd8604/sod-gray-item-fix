@@ -1,0 +1,8 @@
+## Interface: 11500
+## Title: SoDGrayItemFix
+## Notes: Removes inventory item desaturation while casting a rune engraving spell from SoD.
+## Author: Nastiku
+## Version: @project-version@
+## X-Curse-Project-ID: 947701
+
+SoDGrayItemFix.lua
