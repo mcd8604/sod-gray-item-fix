@@ -1,4 +1,4 @@
-## Interface: 11500
+## Interface: 11502
 ## Title: SoDGrayItemFix
 ## Notes: Removes inventory item desaturation while casting a rune engraving spell from SoD.
 ## Author: Nastiku
